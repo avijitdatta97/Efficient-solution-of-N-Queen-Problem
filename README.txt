@@ -1,1 +1,1 @@
-n Queen problem solution using Backtracking algorithm.
+N Queen problem solution using Backtracking algorithm.
